@@ -1,0 +1,31 @@
+/* Classes */
+.float-left {
+	float: left;
+}
+.right {
+	text-align: right;
+}
+.float-right, .css_right {
+	float: right;
+}
+.center {
+	text-align: center;
+}
+.strike {
+	text-decoration: line-through;
+}
+.indent {
+	text-indent: 15px;
+}
+
+/* IDs */
+#site-header {
+	background:url(../images/harbor.jpeg) left center no-repeat;
+	height: 200px;
+}
+#site-header h1 {
+	background-color: #889BB1;
+	border: thin #fff solid;
+	color: #fff;
+	text-shadow: #ccc 3px;
+}
