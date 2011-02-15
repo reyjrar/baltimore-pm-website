@@ -1,0 +1,67 @@
+<HTML>
+<HEAD><TITLE> Other useful Perl-related links</TITLE></HEAD>
+<BODY>
+
+<!--#include virtual="header.html" -->
+
+<center>
+<h2>
+Other Useful Perl-related links
+</h2>
+</center>
+
+<HR>
+
+
+<UL>
+
+<LI>
+<A HREF="http://www.perl.com/">www.perl.com</A>
+<BR> Stay informed with the Perl Developer Update.  Many other resources as well</LI>
+
+<LI>
+<A HREF="http://www.perl.org/">The Perl Institute</A>
+<BR> "a non-profit organization dedicated to keeping Perl available, usable, and free for all."</LI>
+
+<LI>
+<A HREF="http://www.tpj.com/">The Perl Journal</A>
+<BR> A monthly magazine devoted to Perl.</LI>
+
+<LI>
+<a href="http://www.pm.org/mailing_lists.html">Perl Monger Mailing Lists!</a> 
+<BR> Mailing lists of general interest to the Perl Monger community.
+</LI>
+
+
+<LI>
+<A HREF="http://www.oreilly.com/">O'Reilly and Associates</A>
+<BR> Publisher of Perl as well as many other excellent technical books.
+</LI><BR>
+
+<LI>
+<a href="http://www.cgi-resources.com">The CGI Resource Index</a><BR>
+
+A one-stop directory and search engine for CGI-related  resources . </LI>
+
+<LI>
+<a href="http://www.nexor.com/public/perl.html">
+ PERL   Resources </a><br> Many Perl resources. There are also links to other official and unofficial  Perl  sites on the Web.</LI>
+
+<LI>
+<a href="http://language.perl.com/faq">
+ Perl  FAQ Index</a><BR> An index to various FAQ's about Perl.
+</LI>
+
+<LI>
+<a href="http://www.codecranker.com/">
+ Code Cranker</A> <BR> The programmer's search engine. 
+</LI>  
+
+</UL>
+
+<P>&#9</P>
+<A HREF="/"> Home </A>
+
+
+</BODY>
+</HTML>
